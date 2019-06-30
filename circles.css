@@ -1,0 +1,34 @@
+canvas{
+	width: 100%;
+	height: 100%;
+	background-color: black;
+}
+body,html{
+	margin:0;
+	height: 100%;
+}
+h1{
+	background-color: black;
+	color: white;
+	text-transform: uppercase;
+	text-align:  center;
+	padding: 0;
+	margin:0;
+	font-family: 'Barriecito', cursive;
+	letter-spacing: 1rem;
+}
+p{
+	background-color: black;
+	color: white;
+	text-align:  center;
+	padding: 0;
+	margin:0;
+	font-family: 'Dancing Script', cursive;
+	font-size: 30px;
+}
+br{
+	background-color: black;
+	margin:0;
+	padding: 0;
+
+}
